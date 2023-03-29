@@ -33,6 +33,6 @@
 
 <style lang="scss" scoped>
 .app-header{
-    padding: 1rem;
+    padding: 8rem;
 }
 </style>
